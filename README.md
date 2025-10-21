@@ -1,4 +1,4 @@
-# 🌟 Sarah Fadhlaldeen — Data Science Portfolio
+# 🌟 Sarah Fadhlaldeen — Technical Portfolio
 
 Welcome! This portfolio highlights selected projects that demonstrate my experience in **machine learning**, **deepe learning**, and **data analysis** using Python and working with **large synthetic datasets** generated from simulations on high-performance computing (HPC) systems using Python and some MATLAB.
 

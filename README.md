@@ -21,7 +21,7 @@ I’m passionate about applying data-driven methods and emerging technologies li
 
 ---
 
-## 📊 Data Analysis & Simulation Projects
+## 📊 Data Analysis 
 
 **Coursework in Data Analysis and Inverse Problems (KAUST)**  
 - Applied statistical, numerical, and computational techniques to analyze scientific datasets.  

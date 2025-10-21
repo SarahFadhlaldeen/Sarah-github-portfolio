@@ -23,27 +23,29 @@ I’m passionate about applying data-driven methods and emerging technologies li
 
 ## 📊 Data Analysis 
 
-**Coursework in Data Analysis and Inverse Problems (KAUST)**  
-- Applied statistical, numerical, and computational techniques to analyze scientific datasets.  
-- Explored model fitting, uncertainty quantification, and parameter estimation using MATLAB and Python.  
-- Developed data visualization and regression pipelines for evaluating model performance and convergence.
+**Coursework in Data Analysis in Geoscience, Inverse Problems, and Numerical Linear Algebra (KAUST)**  
+- Applied **statistical and computational techniques** to analyze geophysical and scientific datasets.  
+- Used **optimization and parameter-estimation methods** to solve inverse problems and improve model accuracy.  
+- Explored **advanced numerical methods** (SVD, LU, matrix factorization) for handling large datasets and enhancing data resolution.  
+- Built a strong foundation in **quantitative analysis**, **numerical modeling**, and **computational efficiency**, essential for modern machine learning workflows.
 
 ---
 
-### 📊 Earthquake Catalog Analysis (Large Synthetic Datasets) (Python + Matplotlib)
-- Performed **exploratory data analysis (EDA)** and visualization of synthetic seismic catalogs.  
-- Computed **magnitude–frequency distributions**, **recurrence intervals**, and **stress-drop relationships**.  
-- Tools: Python, Pandas, Matplotlib  
+### 📊 Earthquake Catalog Analysis (Large Synthetic Datasets) 
+- Computed and visualized different **scaling relations**, and **recurrence intervals** to identify patterns and trends in different datasets across six different models.
+- Performed **parameter sensitivity analysis**, changing more than 10 parameters and visualized the data using different geostatistical methods to evaluate parameter influence.
+- Tools: Python, Pandas, Matplotlib, MATLAB
 - [View notebook](./Data-Analysis-Projects/Earthquake_Catalog_Analysis.ipynb)
 
 ---
 
 ### ⚙️ Earthquake Cycle Simulations on HPC
-- Ran large-scale simulations using **MCQsim** on the **Shaheen supercomputer**, automating workflows via **SLURM job scheduling** and **Bash scripting**.  
-- Generated and analyzed **multi-segment fault data** to evaluate rupture patterns, scaling relations, and seismic recurrence behavior.  
+- Executed large-scale earthquake cycle simulations using **MCQsim** on the **Shaheen supercomputer**, automating workflows through **SLURM job scheduling** and **Bash scripting**.  
+- Generated and analyzed six distinct **multi-segment fault geometries** to evaluate rupture patterns, scaling relations, and seismic recurrence behavior.  
+- Visualized and interpreted **synthetic earthquake parameters** for different datasets using MCQsim’s analysis tools to assess physical realism and the effects of varying input parameters.  
 - Tools: Linux, Bash, Python, MATLAB  
 - [View results](./HPC-Simulation-Work/MCQsim_Plots)  
-- Related repository: [MCQsim – Multi-Cycle Quasi-Dynamic Earthquake Simulator](https://github.com/kaust-geomechanics/MCQsim)
+- Related repository: [MCQsim – Multi-Cycle Earthquake Simulator](https://github.com/kaust-geomechanics/MCQsim)
 
 ---
 

@@ -47,7 +47,7 @@ I’m passionate about applying data-driven methods and emerging technologies li
 
 ---
 
-## 🎓 Technical Coursework Highlights
+## 🎓 Technical Courses Highlights
 - Machine Learning (classification, regression, unsupervised learning)
 - Numerical Linear Algebra (inverse problems, optimization)
 

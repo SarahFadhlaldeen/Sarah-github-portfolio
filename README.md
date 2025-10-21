@@ -9,37 +9,47 @@ I’m passionate about applying data-driven methods and emerging technologies li
 ## 🧠 Machine Learning
 **Landslide Detection using U-Net and R2U-Net (PyTorch)**  
 - Developed deep learning segmentation models using satellite data from Papua New Guinea.  
-- Achieved 92% accuracy with R2U-Net vs 84% with U-Net.  
+- Achieved 92% accuracy with R2U-Net vs 84% with U-Net.
+- Tools: Python, NumPy, Pandas, Matplotlib, Seaborn, scikit-learn, PyTorch    
 - [View project](./Machine-Learning-Projects/Landslide_Prediction_UNet.ipynb)
 
 **Additional Machine Learning Tasks**  
 - Implemented and evaluated **prediction, classification, and regression** models on diverse datasets.  
-- Explored model performance, feature selection, and result visualization using **scikit-learn** and **PyTorch**.  
+- Explored model performance, feature selection, and result visualization using **scikit-learn** and **PyTorch**.
+- Tools: Python, NumPy, Pandas, Matplotlib, Seaborn, scikit-learn, PyTorch 
 - [View additional tasks](./Machine-Learning-Projects/Tasks/)
 
 ---
 
-## 📊 Data Analysis
-**Earthquake Catalog Analysis (Python, Pandas, Matplotlib)**  
-- Conducted exploratory data analysis (EDA) and statistical modeling of synthetic seismic catalogs.  
-- Visualized magnitude-frequency distributions, recurrence intervals, and stress-drop relationships.  
+## 📊 Data Analysis & Simulation Projects
+
+**Coursework in Data Analysis and Inverse Problems (KAUST)**  
+- Applied statistical, numerical, and computational techniques to analyze scientific datasets.  
+- Explored model fitting, uncertainty quantification, and parameter estimation using MATLAB and Python.  
+- Developed data visualization and regression pipelines for evaluating model performance and convergence.
+
+---
+
+### 📊 Earthquake Catalog Analysis (Large Synthetic Datasets) (Python + Matplotlib)
+- Performed **exploratory data analysis (EDA)** and visualization of synthetic seismic catalogs.  
+- Computed **magnitude–frequency distributions**, **recurrence intervals**, and **stress-drop relationships**.  
+- Tools: Python, Pandas, Matplotlib  
 - [View notebook](./Data-Analysis-Projects/Earthquake_Catalog_Analysis.ipynb)
 
 ---
 
-## ⚙️ HPC & Simulation
-**Earthquake Cycle Modeling using MCQsim (KAUST)**  
-- Executed large-scale simulations on Shaheen supercomputer using SLURM job scheduling and Bash automation.  
-- Computed scaling relations, rupture patterns, and recurrence intervals for multi-segment fault geometries.  
-- [View plots](./HPC-Simulation-Work/MCQsim_Plots/)
+### ⚙️ Earthquake Cycle Simulations on HPC
+- Ran large-scale simulations using **MCQsim** on the **Shaheen supercomputer**, automating workflows via **SLURM job scheduling** and **Bash scripting**.  
+- Generated and analyzed **multi-segment fault data** to evaluate rupture patterns, scaling relations, and seismic recurrence behavior.  
+- Tools: Linux, Bash, Python, MATLAB  
+- [View results](./HPC-Simulation-Work/MCQsim_Plots)  
+- Related repository: [MCQsim – Multi-Cycle Quasi-Dynamic Earthquake Simulator](https://github.com/kaust-geomechanics/MCQsim)
 
 ---
 
-## 🎓 Coursework Highlights
+## 🎓 Technical Coursework Highlights
 - Machine Learning (classification, regression, unsupervised learning)
 - Numerical Linear Algebra (inverse problems, optimization)
-- Seismology & Earthquake Physics (fault mechanics, data analysis)
-- HPC & Linux Systems (batch scripting, SLURM)
 
 ---
 
@@ -47,9 +57,8 @@ I’m passionate about applying data-driven methods and emerging technologies li
 **Languages:** Python, MATLAB, Bash  
 **Libraries:** NumPy, Pandas, Matplotlib, Seaborn, scikit-learn, PyTorch  
 **Visualization:** Power BI, W&B, QGIS  
-**Systems:** Linux, HPC (Shaheen), Git  
-**Currently Learning:** Hugging Face Transformers, OpenAI API, LLM fine-tuning basics
-
+**Systems:** Linux, HPC (Shaheen)  
+**Currently Learning:** Transformers (e.g. Hugging Face)
 ---
 
 📬 **Contact:**  

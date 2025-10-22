@@ -21,7 +21,7 @@ I’m passionate about applying data-driven methods and emerging technologies li
 
 ---
 
-## 📊 Data Analysis 
+## 📊 Data Analysis, Optimization & Tuning
 
 **Coursework in Data Analysis in Geoscience, Inverse Problems, and Numerical Linear Algebra (KAUST)**  
 - Applied **statistical and computational techniques** to analyze geophysical and scientific datasets.  

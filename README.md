@@ -46,7 +46,7 @@ I’m passionate about applying data-driven methods and emerging technologies li
 - Generated and analyzed six distinct **multi-segment fault geometries** to evaluate rupture patterns, scaling relations, and seismic recurrence behavior.  
 - Visualized and interpreted **synthetic earthquake parameters** for different datasets using MCQsim’s analysis tools to assess physical realism and the effects of varying input parameters.  
 - Tools: Linux, Bash, Python, MATLAB  
-- [View results](./HPC-Simulation-Work/MCQsim_Plots)  
+- [View results](./HPC-Simulation-Work)  
 - Related repository: [MCQsim – Multi-Cycle Earthquake Simulator](https://github.com/kaust-geomechanics/MCQsim)
 
 ---

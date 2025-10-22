@@ -11,13 +11,13 @@ I’m passionate about applying data-driven methods and emerging technologies li
 - Developed deep learning segmentation models using satellite data from Papua New Guinea.  
 - Achieved 92% accuracy with R2U-Net vs 84% with U-Net.
 - Tools: Python, NumPy, Pandas, Matplotlib, Seaborn, scikit-learn, PyTorch    
-- [View project](./Machine-Learning-Projects/Landslide_Prediction_UNet.ipynb)
+- [View project](./Machine-Learning-Projects-&-Tasks/Project/)
 
 **Additional Machine Learning Tasks**  
 - Implemented and evaluated **prediction, classification, and regression** models on diverse datasets.  
 - Explored model performance, feature selection, and result visualization using **scikit-learn** and **PyTorch**.
 - Tools: Python, NumPy, Pandas, Matplotlib, Seaborn, scikit-learn, PyTorch 
-- [View additional tasks](./Machine-Learning-Projects/Tasks/)
+- [View additional tasks](./Machine-Learning-Projects-&-Tasks/Tasks/)
 
 ---
 
@@ -29,7 +29,7 @@ I’m passionate about applying data-driven methods and emerging technologies li
 - Explored **advanced numerical methods** (SVD, LU, matrix factorization) for handling large datasets and enhancing data resolution.  
 - Built a strong foundation in **quantitative analysis**, **numerical modeling**, and **computational efficiency**, essential for modern machine learning workflows.
 - Tools: Python, MATLAB 
-- [View additional tasks](./Machine-Learning-Projects/Tasks/)
+- [View tasks](./Data-Analysis-Optimization-&-Tuning)
 
 ---
 
@@ -37,7 +37,7 @@ I’m passionate about applying data-driven methods and emerging technologies li
 - Computed and visualized different **scaling relations**, and **recurrence intervals** to identify patterns and trends in different datasets across six different models.
 - Performed **parameter sensitivity analysis**, changing more than 10 parameters and visualized the data using different geostatistical methods to evaluate parameter influence.
 - Tools: Python, Pandas, Matplotlib, MATLAB
-- [View notebook](./Data-Analysis-Projects/Earthquake_Catalog_Analysis.ipynb)
+- [View notebook](./Large-Data-Analysis-&-Visualisation)
 
 ---
 

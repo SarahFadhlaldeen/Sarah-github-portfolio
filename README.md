@@ -28,6 +28,8 @@ I’m passionate about applying data-driven methods and emerging technologies li
 - Used **optimization and parameter-estimation methods** to solve inverse problems and improve model accuracy.  
 - Explored **advanced numerical methods** (SVD, LU, matrix factorization) for handling large datasets and enhancing data resolution.  
 - Built a strong foundation in **quantitative analysis**, **numerical modeling**, and **computational efficiency**, essential for modern machine learning workflows.
+- Tools: Python, MATLAB 
+- [View additional tasks](./Machine-Learning-Projects/Tasks/)
 
 ---
 
@@ -50,8 +52,9 @@ I’m passionate about applying data-driven methods and emerging technologies li
 ---
 
 ## 🎓 Technical Courses Highlights
-- Machine Learning (classification, regression, unsupervised learning)
-- Numerical Linear Algebra (inverse problems, optimization)
+- Machine Learning: classification, regression, Prediction, unsupervised learning
+- Numerical Linear Algebra: models fine-tuning and optimization
+- Fundamentals of Artificial Intelligence: AI search strategies, knowledge representation, reasoning, introductory applications in machine learning, NLP (using Python NLTK), and computer vision & robotics.
 
 ---
 
@@ -59,7 +62,7 @@ I’m passionate about applying data-driven methods and emerging technologies li
 **Languages:** Python, MATLAB, Bash  
 **Libraries:** NumPy, Pandas, Matplotlib, Seaborn, scikit-learn, PyTorch  
 **Visualization:** Power BI, W&B, QGIS  
-**Systems:** Linux, HPC (Shaheen)  
+**Systems:** Linux, HPC (Shaheen & Aziz supercomputer)  
 **Currently Learning:** Transformers (e.g. Hugging Face)
 ---
 

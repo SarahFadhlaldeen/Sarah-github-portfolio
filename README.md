@@ -59,7 +59,7 @@ I’m passionate about applying data-driven methods and emerging technologies li
 ---
 
 ## 🧰 Technical Stack
-**Languages:** Python, MATLAB, Bash  
+Languages: Python, MATLAB, Bash  
 **Libraries:** NumPy, Pandas, Matplotlib, Seaborn, scikit-learn, PyTorch  
 **Visualization:** Power BI, W&B, QGIS  
 **Systems:** Linux, HPC (Shaheen & Aziz supercomputer)  

@@ -2,16 +2,16 @@
 
 This folder collects my hands-on work in **machine learning** and **deep learning**:
 - end-to-end projects (PyTorch) in the **Projects** section
-- focused experiments  and coursework-style exercises in the **Tasks** section
+- focused experiments covering main concepts of AI and exercises in the **Tasks** section
 
-> Tools: Python, NumPy, Pandas, Matplotlib, Seaborn, scikit-learn, PyTorch, XGBoost, Weights & Biases (W&B), Jupyter
+> Tools: Python|NumPy, Pandas, Matplotlib, Seaborn, scikit-learn, PyTorch, XGBoost|, Weights & Biases (W&B), Jupyter notebooks
 
 ---
 
 ## 🚀 What’s inside
 
 - **Projects/**
-  - **Landslide-Prediction-UNet-R2UNet** — semantic segmentation of landslides from multi-channel raster features (Papua New Guinea), comparing **U-Net** vs **R2U-Net** with W&B experiment tracking.
+  - **Landslide-Prediction-UNet-R2UNet** — Semantic segmentation of landslide-prone areas from multi-channel geospatial raster data (Papua New Guinea). Compared U-Net and R2U-Net architectures with Weights & Biases experiment tracking and end-to-end data preprocessing in PyTorch.
 - **Tasks/**
   - **MLP-Zero-Init-Symmetry** — shows why zero initialization prevents learning (XOR).
   - **XOR-Linear-vs-2LayerNN** — linear model fails, shallow NN (ReLU) succeeds (100%).

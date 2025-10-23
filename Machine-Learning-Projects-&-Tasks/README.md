@@ -2,7 +2,7 @@
 
 This folder collects my hands-on work in **machine learning** and **deep learning**:
 - end-to-end projects (PyTorch) in the **Projects** section
-- focused experiments and coursework-style exercises in the **Tasks** section
+- focused experiments  and coursework-style exercises in the **Tasks** section
 
 > Tools: Python, NumPy, Pandas, Matplotlib, Seaborn, scikit-learn, PyTorch, XGBoost, Weights & Biases (W&B), Jupyter
 

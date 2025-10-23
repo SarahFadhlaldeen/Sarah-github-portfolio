@@ -15,7 +15,7 @@ This folder collects my hands-on work in **machine learning** and **deep learnin
 - **Tasks:**
   - **MLP-Zero-Init-Symmetry** — Demonstrates the symmetry problem in a 2-layer neural network with zero-initialized weights and biases, showing that identical gradients prevent learning (XOR task).
   - **XOR-Linear-vs-2LayerNN** — Built a linear baseline that fails on XOR and a two-layer ReLU network that learns it perfectly; demonstrates why nonlinear capacity matters in practice.
-  - **Optimizer-Comparison-Rosenbrock-Booth** — Adam / SGD / RMSProp / Adagrad convergence.
+  - **Optimizer-Comparison (Rosenbrock & Booth Functions)** — Compared the performance of Adam, SGD, RMSProp, and Adagrad optimizers in minimizing the Rosenbrock and Booth benchmark functions; visualized convergence speed and trajectories.
   - **Facies-Classification-Well-Logs** — DTS regression + facies classification (XGBoost + DNN) with EDA and confusion matrices.
   - **Sobel-Edges-PyTorch-vs-skimage** — custom conv2d filters vs `skimage` Sobel.
 

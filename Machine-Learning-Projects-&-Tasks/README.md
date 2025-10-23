@@ -10,9 +10,9 @@ This folder collects my hands-on work in **machine learning** and **deep learnin
 
 ## 🚀 What’s inside
 
-- **Projects/**
+- **Projects:**
   - **Landslide-Prediction-UNet-R2UNet** — Semantic segmentation of landslide-prone areas from multi-channel geospatial raster data (Papua New Guinea). Compared U-Net and R2U-Net architectures with Weights & Biases experiment tracking and end-to-end data preprocessing in PyTorch.
-- **Tasks/**
+- **Tasks:**
   - **MLP-Zero-Init-Symmetry** — shows why zero initialization prevents learning (XOR).
   - **XOR-Linear-vs-2LayerNN** — linear model fails, shallow NN (ReLU) succeeds (100%).
   - **Optimizer-Comparison-Rosenbrock-Booth** — Adam / SGD / RMSProp / Adagrad convergence.

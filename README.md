@@ -25,7 +25,7 @@ Each directory contains a dedicated README with detailed explanations, results, 
 - Trained and tuned **U-Net** and **R2-U-Net** architectures using Adam optimization and BCE loss.  
 - Conducted **hyperparameter tuning** and **model evaluation** using *Accuracy*, *F1-score*, and *RMSE*.  
 - Achieved **92% accuracy with R2-U-Net** compared to **84% with U-Net**.  
-
+<br>
 - Tools: Python, NumPy, Pandas, Matplotlib, Seaborn, scikit-learn, PyTorch, Weights & Biases (W&B)  
 - 🔗 [View details →](./Machine-Learning-Projects-&-Tasks)
 

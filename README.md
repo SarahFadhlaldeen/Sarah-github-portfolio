@@ -19,22 +19,28 @@ Each directory contains a dedicated README with detailed explanations, results, 
 
 ## 🧠 Machine Learning
 
-**Landslide Prediction Project using U-Net and R2U-Net**  
+**Landslide Prediction Project using U-Net and R2U-Net :**  
 - Developed deep learning semantic segmentation models using satellite data from Papua New Guinea.  
 - Performed **data preprocessing**, **augmentation**, and **feature engineering** to prepare multi-channel raster datasets.  
 - Trained and tuned **U-Net** and **R2-U-Net** architectures using Adam optimization and BCE loss.  
 - Conducted **hyperparameter tuning** and **model evaluation** using *Accuracy*, *F1-score*, and *RMSE*.  
-- Achieved **92% accuracy with R2-U-Net** compared to **84% with U-Net**.  
+- Achieved **92% accuracy with R2-U-Net** compared to **84% with U-Net**. 
+
 <br>
-- Tools: Python, NumPy, Pandas, Matplotlib, Seaborn, scikit-learn, PyTorch, Weights & Biases (W&B)  
+
+- 💻 Tools: Python, NumPy, Pandas, Matplotlib, Seaborn, scikit-learn, PyTorch, Weights & Biases (W&B)  
 - 🔗 [View details →](./Machine-Learning-Projects-&-Tasks)
 
-**Additional Machine Learning Tasks**  
+<br>
+
+**Additional Machine Learning Tasks :**  
 - Implemented and evaluated **prediction, classification, and regression** models across diverse datasets.  
 - Conducted **exploratory data analysis (EDA)**, **feature selection**, and **model optimization** to improve performance and **model understanding**.  
-- Covered core ML concepts including **gradient-based optimization**, **regularization**, and **evaluation metrics** (*Accuracy*, *F1-score*, *RMSE*).  
+- Covered core ML concepts including **gradient-based optimization**, **regularization**, and **evaluation metrics** (*Accuracy*, *F1-score*, *RMSE*). 
 
-- Tools: Python, NumPy, Pandas, Matplotlib, Seaborn, scikit-learn, PyTorch  
+<br>
+
+- 💻 Tools: Python, NumPy, Pandas, Matplotlib, Seaborn, scikit-learn, PyTorch  
 - 🔗 [View details →](./Machine-Learning-Projects-&-Tasks)
 
 ---

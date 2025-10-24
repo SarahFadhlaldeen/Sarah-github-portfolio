@@ -31,39 +31,7 @@ This folder collects my hands-on work in **machine learning** and **deep learnin
 
 <br>
 
-- ⚙️**Tasks:** 
-  - 🧩**MLP-Zero-Init-Symmetry :**
-    
-     - Demonstrates the symmetry problem in a 2-layer neural network with zero-initialized weights and biases, showing how identical gradients prevent learning on the XOR task.
-    
-    - Analyzed how poor parameter initialization disrupts gradient flow and convergence, highlighting a core concept in neural-network training and optimization.
-
-  🔗 [View Notebook →](./Tasks/MLP-Zero-Init-Symmetry.ipynb) 
-
-  <div align="center"><span style="color:#888;">⋯⋯⋯⋯ ⬩ ⋯⋯⋯⋯</span></div> 
-  
-  - 🧩**XOR-Linear-vs-2LayerNN :** 
-    
-      - Built a linear regression baseline that fails on XOR and a 2-layer ReLU network (non-linear) that learns it perfectly. 
-      
-      - Highlighted how nonlinear capacity enables models to capture complex patterns.
-      
-      - Performed model training, evaluation, and convergence behavior visualization.
-  
-  🔗 [View Notebook →](./Tasks/XOR-Linear-vs-2LayerNN.ipynb)
-
-  <div align="center"><span style="color:#888;">⋯⋯⋯⋯ ⬩ ⋯⋯⋯⋯</span></div>
-  
-  - 🧩**Optimizer-Comparison (Rosenbrock & Booth Functions) :** 
-  
-    - Conducted a comparative experiment of Adam, SGD, RMSProp, and Adagrad optimizers on Rosenbrock and Booth benchmark functions. 
-    
-    - Performed statistical analysis of convergence, loss-curve visualization, and hyperparameter behavior to demonstrate understanding of gradient-based optimization and model tuning.
-
-  🔗 [View Notebook →](./Tasks/Optimizer-Comparison.ipynb)
-
-   <div align="center"><span style="color:#888;">⋯⋯⋯⋯ ⬩ ⋯⋯⋯⋯</span></div>
-
+- ⚙️**Tasks:**
   - 🧩**Facies-Classification-Well-Logs :** 
   
     - Implemented an end-to-end data-science workflow for lithofacies prediction using well-log data (FORCE 2020 lithology dataset). 
@@ -85,4 +53,45 @@ This folder collects my hands-on work in **machine learning** and **deep learnin
     - Illustrated how deep-learning frameworks (CNNs) perform classical computer-vision tasks through convolutional filtering.
 
   🔗 [View Notebook →](./Tasks/Edge-Detection-PyTorch-vs-skimage.ipynb)
+
+  <div align="center"><span style="color:#888;">⋯⋯⋯⋯ ⬩ ⋯⋯⋯⋯</span></div>
+
+  
+  - 🧩**Optimizer-Comparison (Rosenbrock & Booth Functions) :** 
+  
+    - Conducted a comparative experiment of Adam, SGD, RMSProp, and Adagrad optimizers on Rosenbrock and Booth benchmark functions. 
+    
+    - Performed statistical analysis of convergence, loss-curve visualization, and hyperparameter behavior to demonstrate understanding of gradient-based optimization and model tuning.
+
+  🔗 [View Notebook →](./Tasks/Optimizer-Comparison.ipynb)
+
+  <div align="center"><span style="color:#888;">⋯⋯⋯⋯ ⬩ ⋯⋯⋯⋯</span></div>
+  
+  - 🧩**MLP-Zero-Init-Symmetry :**
+    
+     - Demonstrates the symmetry problem in a 2-layer neural network with zero-initialized weights and biases, showing how identical gradients prevent learning on the XOR task.
+    
+    - Analyzed how poor parameter initialization disrupts gradient flow and convergence, highlighting a core concept in neural-network training and optimization.
+
+  🔗 [View Notebook →](./Tasks/MLP-Zero-Init-Symmetry.ipynb) 
+
+  <div align="center"><span style="color:#888;">⋯⋯⋯⋯ ⬩ ⋯⋯⋯⋯</span></div> 
+  
+  - 🧩**XOR-Linear-vs-2LayerNN :** 
+    
+      - Built a linear regression baseline that fails on XOR and a 2-layer ReLU network (non-linear) that learns it perfectly. 
+      
+      - Highlighted how nonlinear capacity enables models to capture complex patterns.
+      
+      - Performed model training, evaluation, and convergence behavior visualization.
+  
+  🔗 [View Notebook →](./Tasks/XOR-Linear-vs-2LayerNN.ipynb)
+
+  
+  
+  
+
+   
+
+ 
 

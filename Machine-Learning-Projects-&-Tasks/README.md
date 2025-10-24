@@ -4,7 +4,7 @@ This folder collects my hands-on work in **machine learning** and **deep learnin
 - end-to-end projects (PyTorch) in the **Projects** section
 - focused experiments covering main concepts of AI and exercises in the **Tasks** section
 
-> Tools: Python, NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn, PyTorch, XGBoost, Weights & Biases (W&B), Jupyter notebooks
+> Tools: Python, NumPy, Pandas, Matplotlib, Seaborn, scikit-learn, PyTorch, XGBoost, Weights & Biases (W&B), Jupyter notebooks
 
 ---
 

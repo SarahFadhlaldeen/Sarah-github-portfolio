@@ -10,16 +10,16 @@ I’m passionate about applying data-driven methods and emerging technologies li
 
 Each directory contains a dedicated README with detailed explanations, results, and  Jupyter Notebook links.
 
-- 🧠 [**Machine-Learning-Projects-&-Tasks**](./Machine-Learning-Projects-&-Tasks) — Deep learning segmentation, predictive modeling, and experiment tracking  
-- 📊 [**Data-Analysis-Optimization-&-Tuning**](./Data-Analysis-Optimization-&-Tuning) — Statistical analysis, inverse problems, and numerical methods  
-- 🌍 [**Large-Data-Analysis-&-Visualisation**](./Large-Data-Analysis-&-Visualisation) — Earthquake catalog analysis and parameter sensitivity studies  
-- ⚙️ [**HPC-Simulation-Work**](./HPC-Simulation-Work) — Large-scale earthquake cycle simulations on KAUST’s Shaheen supercomputer
+- 🧠 [**Machine-Learning-Projects-&-Tasks** →](./Machine-Learning-Projects-&-Tasks) — Deep learning segmentation, predictive modeling, and experiment tracking  
+- 📊 [**Data-Analysis-Optimization-&-Tuning** →](./Data-Analysis-Optimization-&-Tuning) — Statistical analysis, inverse problems, and numerical methods  
+- 🌍 [**Large-Data-Analysis-&-Visualisation** →](./Large-Data-Analysis-&-Visualisation) — Earthquake catalog analysis and parameter sensitivity studies  
+- ⚙️ [**HPC-Simulation-Work** →](./HPC-Simulation-Work) — Large-scale earthquake cycle simulations on KAUST’s Shaheen supercomputer
 
 ---
 
 ## 🧠 Machine Learning
 
-**Landslide Prediction Project using U-Net and R2U-Net :**  
+🧩 **Landslide Prediction Project using U-Net and R2U-Net :**  
 - Developed deep learning semantic segmentation models using satellite data from Papua New Guinea.  
 - Performed **data preprocessing**, **augmentation**, and **feature engineering** to prepare multi-channel raster datasets.  
 - Trained and tuned **U-Net** and **R2-U-Net** architectures using Adam optimization and BCE loss.  
@@ -33,7 +33,7 @@ Each directory contains a dedicated README with detailed explanations, results, 
 
 <br>
 
-**Additional Machine Learning Tasks :**  
+🧩 **Additional Machine Learning Tasks :**  
 - Implemented and evaluated **prediction, classification, and regression** models across diverse datasets.  
 - Conducted **exploratory data analysis (EDA)**, **feature selection**, and **model optimization** to improve performance and **model understanding**.  
 - Covered core ML concepts including **gradient-based optimization**, **regularization**, and **evaluation metrics** (*Accuracy*, *F1-score*, *RMSE*). 

@@ -9,8 +9,8 @@ This folder collects my hands-on work in **machine learning** and **deep learnin
 ---
 
 ## 🔎 Quick links
-- ▶️ **Featured projects:** [Projects](./Projects/)
-- ▶️ **All tasks:** [Tasks](./Tasks/)
+- ▶️ **Featured projects:** [Projects →](./Projects/)
+- ▶️ **All tasks:** [Tasks →](./Tasks/)
 
 ---
 
@@ -27,7 +27,7 @@ This folder collects my hands-on work in **machine learning** and **deep learnin
     
     -  Used **Weights & Biases** to track **experiments**, **hyperparameter tuning**, and **model evaluation metrics** (*accuracy*, *F1-score*, *RMSE*).
   
-  🔗 [View U-Net Notebook](./Projects/Landslide_UNet.ipynb) | 🔗 [View R2-U-Net Notebook](./Projects/Landslide_R2UNet.ipynb)
+  🔗 [View U-Net Notebook →](./Projects/Landslide_UNet.ipynb) | 🔗 [View R2-U-Net Notebook →](./Projects/Landslide_R2UNet.ipynb)
 
 <br>
 
@@ -38,7 +38,7 @@ This folder collects my hands-on work in **machine learning** and **deep learnin
     
     - Analyzed how poor parameter initialization disrupts gradient flow and convergence, highlighting a core concept in neural-network training and optimization.
 
-  🔗 [View Notebook](./Tasks/MLP-Zero-Init-Symmetry.ipynb) 
+  🔗 [View Notebook →](./Tasks/MLP-Zero-Init-Symmetry.ipynb) 
 
   <div align="center"><span style="color:#888;">⋯⋯⋯⋯ ⬩ ⋯⋯⋯⋯</span></div> 
   
@@ -50,7 +50,7 @@ This folder collects my hands-on work in **machine learning** and **deep learnin
       
       - Performed model training, evaluation, and convergence behavior visualization.
   
-  🔗 [View Notebook](./Tasks/XOR-Linear-vs-2LayerNN.ipynb)
+  🔗 [View Notebook →](./Tasks/XOR-Linear-vs-2LayerNN.ipynb)
 
   <div align="center"><span style="color:#888;">⋯⋯⋯⋯ ⬩ ⋯⋯⋯⋯</span></div>
   
@@ -60,7 +60,7 @@ This folder collects my hands-on work in **machine learning** and **deep learnin
     
     - Performed statistical analysis of convergence, loss-curve visualization, and hyperparameter behavior to demonstrate understanding of gradient-based optimization and model tuning.
 
-  🔗 [View Notebook](./Tasks/Optimizer-Comparison.ipynb)
+  🔗 [View Notebook →](./Tasks/Optimizer-Comparison.ipynb)
 
    <div align="center"><span style="color:#888;">⋯⋯⋯⋯ ⬩ ⋯⋯⋯⋯</span></div>
 
@@ -72,7 +72,7 @@ This folder collects my hands-on work in **machine learning** and **deep learnin
     
     - Conducted hyperparameter tuning, cross-validation, and performance evaluation using accuracy, F1-score, and confusion matrices.
 
-  🔗 [View Notebook](./Tasks/Facies-Classification-Well-Logs.ipynb)
+  🔗 [View Notebook →](./Tasks/Facies-Classification-Well-Logs.ipynb)
 
   <div align="center"><span style="color:#888;">⋯⋯⋯⋯ ⬩ ⋯⋯⋯⋯</span></div>
 
@@ -84,5 +84,5 @@ This folder collects my hands-on work in **machine learning** and **deep learnin
     
     - Illustrated how deep-learning frameworks (CNNs) perform classical computer-vision tasks through convolutional filtering.
 
-  🔗 [View Notebook](./Tasks/Edge-Detection-PyTorch-vs-skimage.ipynb)
+  🔗 [View Notebook →](./Tasks/Edge-Detection-PyTorch-vs-skimage.ipynb)
 

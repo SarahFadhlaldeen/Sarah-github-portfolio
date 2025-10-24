@@ -1,25 +1,44 @@
 # 🌟 Sarah Fadhlaldeen — Technical Portfolio
 
-Welcome! This portfolio highlights selected projects that demonstrate my experience in **machine learning**, **deepe learning**, and **data analysis** using Python and working with **large synthetic datasets** generated from simulations on high-performance computing (HPC) systems using Python and some MATLAB.
+Welcome! This portfolio highlights selected projects that demonstrate my experience in **machine learning**, **deepe learning**, and **data analysis** using Python — including work with **large synthetic datasets** generated from simulations on **high-performance computing (HPC)** systems.
 
 I’m passionate about applying data-driven methods and emerging technologies like AI to real-world challenges and developing intelligent solutions that create meaningful impact."
 
 ---
 
-## 🧠 Machine Learning
-**Landslide Detection using U-Net and R2U-Net (PyTorch)**  
-- Developed deep learning segmentation models using satellite data from Papua New Guinea.  
-- Achieved 92% accuracy with R2U-Net vs 84% with U-Net.
-- Tools: Python, NumPy, Pandas, Matplotlib, Seaborn, scikit-learn, PyTorch    
-- [View project](./Machine-Learning-Projects-&-Tasks/Project/)
+## 🗂️ Repository Structure
 
-**Additional Machine Learning Tasks**  
-- Implemented and evaluated **prediction, classification, and regression** models on diverse datasets.  
-- Explored model performance, feature selection, and result visualization using **scikit-learn** and **PyTorch**.
-- Tools: Python, NumPy, Pandas, Matplotlib, Seaborn, scikit-learn, PyTorch 
-- [View additional tasks](./Machine-Learning-Projects-&-Tasks/Tasks/)
+Each directory contains a dedicated README with detailed explanations, results, and  Jupyter Notebook links.
+
+- 🧠 [**Machine-Learning-Projects-&-Tasks**](./Machine-Learning-Projects-&-Tasks) — Deep learning segmentation, predictive modeling, and experiment tracking  
+- 📊 [**Data-Analysis-Optimization-&-Tuning**](./Data-Analysis-Optimization-&-Tuning) — Statistical analysis, inverse problems, and numerical methods  
+- 🌍 [**Large-Data-Analysis-&-Visualisation**](./Large-Data-Analysis-&-Visualisation) — Earthquake catalog analysis and parameter sensitivity studies  
+- ⚙️ [**HPC-Simulation-Work**](./HPC-Simulation-Work) — Large-scale earthquake cycle simulations on KAUST’s Shaheen supercomputer
 
 ---
+
+## 🧠 Machine Learning
+
+**Landslide Prediction Project using U-Net and R2U-Net**  
+- Developed deep learning semantic segmentation models using satellite data from Papua New Guinea.  
+- Performed **data preprocessing**, **augmentation**, and **feature engineering** to prepare multi-channel raster datasets.  
+- Trained and tuned **U-Net** and **R2-U-Net** architectures using Adam optimization and BCE loss.  
+- Conducted **hyperparameter tuning** and **model evaluation** using *Accuracy*, *F1-score*, and *RMSE*.  
+- Achieved **92% accuracy with R2-U-Net** compared to **84% with U-Net**.  
+
+- Tools: Python, NumPy, Pandas, Matplotlib, Seaborn, scikit-learn, PyTorch, Weights & Biases (W&B)  
+- 🔗 [View details →](./Machine-Learning-Projects-&-Tasks)
+
+**Additional Machine Learning Tasks**  
+- Implemented and evaluated **prediction, classification, and regression** models across diverse datasets.  
+- Conducted **exploratory data analysis (EDA)**, **feature selection**, and **model optimization** to improve performance and **model understanding**.  
+- Covered core ML concepts including **gradient-based optimization**, **regularization**, and **evaluation metrics** (*Accuracy*, *F1-score*, *RMSE*).  
+
+- Tools: Python, NumPy, Pandas, Matplotlib, Seaborn, scikit-learn, PyTorch  
+- 🔗 [View details →](./Machine-Learning-Projects-&-Tasks)
+
+---
+
 
 ## 📊 Data Analysis, Optimization & Tuning
 
@@ -33,7 +52,7 @@ I’m passionate about applying data-driven methods and emerging technologies li
 
 ---
 
-### 📊 Earthquake Catalog Analysis (Large Synthetic Datasets) 
+### 🌍 Earthquake Catalogs Analysis (Large Synthetic Datasets) 
 - Computed and visualized different **scaling relations**, and **recurrence intervals** to identify patterns and trends in different datasets across six different models.
 - Performed **parameter sensitivity analysis**, changing more than 10 parameters and visualized the data using different geostatistical methods to evaluate parameter influence.
 - Tools: Python, Pandas, Matplotlib, MATLAB

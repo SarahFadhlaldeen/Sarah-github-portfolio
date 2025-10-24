@@ -8,6 +8,12 @@ This folder collects my hands-on work in **machine learning** and **deep learnin
 
 ---
 
+## 🔎 Quick links
+- ▶️ **Featured projects:** [Projects](./Projects/)
+- ▶️ **All tasks:** [Tasks](./Tasks/)
+
+---
+
 ## 🚀 What’s inside
 
 - ⚙️**Projects:**
@@ -79,12 +85,5 @@ This folder collects my hands-on work in **machine learning** and **deep learnin
     - Illustrated how deep-learning frameworks (CNNs) perform classical computer-vision tasks through convolutional filtering.
 
   🔗 [View Notebook](./Tasks/Edge-Detection-PyTorch-vs-skimage.ipynb)
-
----
-
-## 🔎 Quick links
-
-- ▶️ **Featured project:** [Projects](./Projects/)
-- 🧩 **All tasks:** [Tasks](./Tasks/)
 
 ---

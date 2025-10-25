@@ -4,7 +4,7 @@ This folder contains my work on **big synthetic datasets**, which are **physics-
 - **Parameter Sensitivity Analysis & Scaling Relationships** – investigates how varying physical parameters affects simulated earthquake statistics to identify the most realistic model behavior. 
 - **Rupture Behavior Analysis and Comparison Across Geometries** – compares the six fault geometries catalogs to interpret large-scale rupture dynamics using recurrence behavior, and scaling relationships.  
 
-> **Tools:** Python, NumPy, Pandas, SciPy, Matplotlib, Jupyter Notebooks, MATLAB
+> **Tools:** Python, NumPy, Pandas, SciPy, math, Matplotlib, Jupyter Notebooks, MATLAB
 
 ---
 

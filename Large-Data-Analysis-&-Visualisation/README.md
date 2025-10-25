@@ -28,7 +28,7 @@ This folder contains my work on **big synthetic datasets**, which are **physics-
   - 🧩**Scope:** 
     - Analyzed large synthetic catalogs from one representative East Anatolian Fault geometry (out of six total created).
     
-    - Assess how **physical parameters** controls model behavior by influencing statistical scaling relations.  
+    - Assessed how **physical parameters** control model behavior by influencing statistical scaling relations.  
     
     - Varied a set of **key physical parameters** — including *critical slip distance (Dc)*, *dynamic friction (μd)*, *correlation length (cl)*, and *strength cutoff (w1%)*.
     
@@ -56,7 +56,7 @@ This folder contains my work on **big synthetic datasets**, which are **physics-
   <div align="center"><span style="color:#888;">⋯⋯⋯⋯ ⬩ ⋯⋯⋯⋯</span></div>
 
 
-- ⚙️**Rupture Behavior Analysis and Comparison Across Geometries:**
+- ⚙️**Rupture behavior analysis and comparison across geometries:**
   - 🧩Applied the same analysis framework to the **final selected catalogs** from all **six fault geometries** to compare their long-term seismic behavior. 
   
   - 🧩**Assessed how fault geometry influences:**

@@ -1,4 +1,4 @@
-# 📊 Large Data Analysis & Visualisation
+# 🌍 Large Data Analysis & Visualisation
 
 This folder contains my work on **big synthetic datasets**, which are **physics-based earthquake catalogs** generated using **MCQsim** simulator. It focuses on two key parts:
 - **Parameter Sensitivity Analysis & Scaling Relationships** – investigates how varying physical parameters affects simulated earthquake statistics to identify the most realistic model behavior. 

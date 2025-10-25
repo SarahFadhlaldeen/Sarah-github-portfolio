@@ -10,9 +10,9 @@ I’m passionate about applying data-driven methods and emerging technologies li
 
 Each directory contains a dedicated README with detailed explanations, results, and  Jupyter Notebook links.
 
-- 🧠 [**Machine-Learning-Projects-&-Tasks** →](./Machine-Learning-Projects-&-Tasks) — Deep learning segmentation, predictive modeling, and experiment tracking  
+- 🧠 [**Machine-Learning-Projects-&-Tasks** →](./Machine-Learning-Projects-&-Tasks) — Deep learning segmentation, predictive modeling, and experiment tracking
+- 🌍 [**Large-Data-Analysis-&-Visualisation** →](./Large-Data-Analysis-&-Visualisation) — Earthquake catalog analysis and parameter sensitivity studies 
 - 📊 [**Data-Analysis-Optimization-&-Tuning** →](./Data-Analysis-Optimization-&-Tuning) — Statistical analysis, inverse problems, and numerical methods  
-- 🌍 [**Large-Data-Analysis-&-Visualisation** →](./Large-Data-Analysis-&-Visualisation) — Earthquake catalog analysis and parameter sensitivity studies  
 - ⚙️ [**HPC-Simulation-Work** →](./HPC-Simulation-Work) — Large-scale earthquake cycle simulations on KAUST’s Shaheen supercomputer
 
 ---
@@ -45,6 +45,16 @@ Each directory contains a dedicated README with detailed explanations, results, 
 
 ---
 
+### 🌍 Large Data Analysis & Visualisation (Synthetic Earthquake Catalogs) 
+- Performed parameter sensitivity and statistical analysis on synthetic earthquake catalogs to uncover patterns and assess the impact of physical parameters using scaling relations and recurrence behavior with geostatistical visualization methods.
+- Investigated moment accumulation, magnitude distributions, and recurrence behavior to identify patterns and trends, enabling comparison of rupture dynamics across six fault geometries and key structural locations.
+
+<br>
+
+- 💻 Tools: Python, Pandas, SciPy, Matplotlib, MATLAB, MCQsim software
+- 🔗 [View details →](./Large-Data-Analysis-&-Visualisation)
+
+---
 
 ## 📊 Data Analysis, Optimization & Tuning
 
@@ -55,14 +65,6 @@ Each directory contains a dedicated README with detailed explanations, results, 
 - Built a strong foundation in **quantitative analysis**, **numerical modeling**, and **computational efficiency**, essential for modern machine learning workflows.
 - Tools: Python, MATLAB 
 - [View tasks](./Data-Analysis-Optimization-&-Tuning)
-
----
-
-### 🌍 Earthquake Catalogs Analysis (Large Synthetic Datasets) 
-- Computed and visualized different **scaling relations**, and **recurrence intervals** to identify patterns and trends in different datasets across six different models.
-- Performed **parameter sensitivity analysis**, changing more than 10 parameters and visualized the data using different geostatistical methods to evaluate parameter influence.
-- Tools: Python, Pandas, Matplotlib, MATLAB
-- [View notebook](./Large-Data-Analysis-&-Visualisation)
 
 ---
 
@@ -84,8 +86,8 @@ Each directory contains a dedicated README with detailed explanations, results, 
 ---
 
 ## 🧰 Technical Stack
-**Languages:** Python, MATLAB, Bash  
-**Libraries:** NumPy, Pandas, Matplotlib, Seaborn, scikit-learn, PyTorch  
+**Languages:** Python, MATLAB, Bash, SQL(beginner)  
+**Libraries:** NumPy, Pandas, Matplotlib, Seaborn, scikit-learn, PyTorch, SciPy 
 **Visualization:** Power BI, W&B, QGIS  
 **Systems:** Linux, HPC (Shaheen & Aziz supercomputer)  
 **Currently Learning:** Transformers (e.g. Hugging Face)

@@ -66,7 +66,7 @@ Each directory contains a dedicated README with detailed explanations, results, 
 
 <br>
 
-- 💻 Tools: Python, MATLAB  
+- 💻 Tools: Python, MATLAB, NumPy, Pandas, SciPy, Matplotlib, scikit-learn  
 - 🔗 [View details →](./Data-Analysis-Optimization-&-Matrix-Methods)
 
 ---

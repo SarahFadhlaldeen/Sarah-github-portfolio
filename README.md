@@ -2,7 +2,7 @@
 
 Welcome! This portfolio highlights selected projects that demonstrate my experience in **machine learning**, **deep learning**, and **data analysis** using Python — including work with **large synthetic datasets** generated from simulations on **high-performance computing (HPC)** systems.
 
-I’m passionate about applying data-driven methods and emerging technologies like AI to real-world challenges and developing intelligent solutions that create meaningful impact."
+I’m passionate about applying data-driven methods and emerging technologies like AI to real-world challenges and developing intelligent solutions that create meaningful impact.
 
 ---
 

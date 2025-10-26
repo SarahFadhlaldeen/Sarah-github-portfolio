@@ -29,7 +29,7 @@ Each directory contains a dedicated README with detailed explanations, results, 
 <br>
 
 - 💻 Tools: Python, NumPy, Pandas, Matplotlib, Seaborn, scikit-learn, PyTorch, Weights & Biases (W&B)  
-- 🔗 [View details →](./Machine-Learning-Projects-&-Tasks)
+- 🔗 [View Details →](./Machine-Learning-Projects-&-Tasks)
 
 <br>
 
@@ -41,7 +41,7 @@ Each directory contains a dedicated README with detailed explanations, results, 
 <br>
 
 - 💻 Tools: Python, NumPy, Pandas, Matplotlib, Seaborn, scikit-learn, PyTorch  
-- 🔗 [View details →](./Machine-Learning-Projects-&-Tasks)
+- 🔗 [View Details →](./Machine-Learning-Projects-&-Tasks)
 
 ---
 
@@ -52,13 +52,13 @@ Each directory contains a dedicated README with detailed explanations, results, 
 <br>
 
 - 💻 Tools: Python, Pandas, SciPy, Matplotlib, MATLAB, MCQsim software
-- 🔗 [View details →](./Large-Data-Analysis-&-Visualisation)
+- 🔗 [View Details →](./Large-Data-Analysis-&-Visualisation)
 
 ---
 
 ## 📊 Data Analysis, Optimization & Matrix-Methods  
 
-**Applied computational, statistical, and numerical techniques across geoscience and mathematical modeling domains.**  
+🧩**Applied computational, statistical, and numerical techniques across geoscience and mathematical modeling domains.**  
 - Performed **parameter estimation, inverse modeling, and optimization** to improve model stability and accuracy.  
 - Implemented **matrix and decomposition methods** (SVD, LU, PCA, QR) for high-dimensional data reduction, signal extraction, and system solving.  
 - Explored **conditioning, regularization, and convergence behavior** to ensure computational robustness.  
@@ -67,7 +67,7 @@ Each directory contains a dedicated README with detailed explanations, results, 
 <br>
 
 - 💻 Tools: Python, MATLAB, NumPy, Pandas, SciPy, Matplotlib, scikit-learn  
-- 🔗 [View details →](./Data-Analysis-Optimization-&-Matrix-Methods)
+- 🔗 [View Details →](./Data-Analysis-Optimization-&-Matrix-Methods)
 
 ---
 
@@ -75,16 +75,22 @@ Each directory contains a dedicated README with detailed explanations, results, 
 - Executed large-scale earthquake cycle simulations using **MCQsim** on the **Shaheen supercomputer**, automating workflows through **SLURM job scheduling** and **Bash scripting**.  
 - Generated and analyzed six distinct **multi-segment fault geometries** to evaluate rupture patterns, scaling relations, and seismic recurrence behavior.  
 - Visualized and interpreted **synthetic earthquake parameters** for different datasets using MCQsim’s analysis tools to assess physical realism and the effects of varying input parameters.  
-- Tools: Linux, Bash, Python, MATLAB  
-- [View results](./HPC-Simulation-Work)  
-- Related repository: [MCQsim – Multi-Cycle Earthquake Simulator](https://github.com/kaust-geomechanics/MCQsim)
+
+<br>
+
+- 💻 Tools: Linux, Bash, Python, MATLAB  
+- 🔗 [View Details →](./HPC-Simulation-Work)  
+- 🔗 Related repository: [MCQsim – Multi-Cycle Earthquake Rupture Simulator](https://github.com/woxin5295/MC-Qsim)
 
 ---
 
 ## 🎓 Technical Courses Highlights
-- Machine Learning: classification, regression, Prediction, unsupervised learning
-- Numerical Linear Algebra: models fine-tuning and optimization
-- Fundamentals of Artificial Intelligence: AI search strategies, knowledge representation, reasoning, introductory applications in machine learning, NLP (using Python NLTK), and computer vision & robotics.
+- 💡 **Machine Learning:** classification, regression, prediction, unsupervised learning, data processing, EDA, ANNs, CNNs, RNN,s LSTMs, autoencoders, VAEs, GANs.
+- 💡 **Fundamentals of Artificial Intelligence:** AI search strategies, knowledge representation, reasoning, introductory applications in machine learning, NLP (using Python NLTK), and computer vision & robotics.
+- 💡 **Numerical Linear Algebra:** matrix decompositions (SVD, LU, QR, PCA), iterative solvers (Jacobi, Gauss–Seidel), model optimization, stability, computational efficiency. 
+- 💡 **Data Analysis in Geoscience:** variogram modeling, kriging, spatial interpolation, uncertainty
+quantification, and multivariate analysis, geostatistics.
+
 
 ---
 

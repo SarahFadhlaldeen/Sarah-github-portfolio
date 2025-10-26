@@ -85,18 +85,24 @@ Each directory contains a dedicated README with detailed explanations, results, 
 ---
 
 ## 🎓 Technical Courses Highlights
-- 💡 **Machine Learning:** classification, regression, prediction, unsupervised learning, data processing, EDA, ANNs, CNNs, RNN,s LSTMs, autoencoders, VAEs, GANs.
-- 💡 **Fundamentals of Artificial Intelligence:** AI search strategies, knowledge representation, reasoning, introductory applications in machine learning, NLP (using Python NLTK), and computer vision & robotics.
-- 💡 **Numerical Linear Algebra:** matrix decompositions (SVD, LU, QR, PCA), iterative solvers (Jacobi, Gauss–Seidel), model optimization, stability, computational efficiency. 
-- 💡 **Data Analysis in Geoscience:** variogram modeling, kriging, spatial interpolation, uncertainty
-quantification, and multivariate analysis, geostatistics.
+💡 **Machine Learning:** 
+- classification, regression, prediction, unsupervised learning, data processing, EDA, ANNs, CNNs, RNN,s LSTMs, autoencoders, VAEs, GANs.
+
+💡 **Fundamentals of Artificial Intelligence:** 
+- AI search strategies, knowledge representation, reasoning, introductory applications in machine learning, NLP (using Python NLTK), and computer vision & robotics.
+
+💡 **Numerical Linear Algebra:** 
+- matrix decompositions (SVD, LU, QR, PCA), iterative solvers (Jacobi, Gauss–Seidel), model optimization, stability, computational efficiency. 
+
+💡 **Data Analysis in Geoscience:** 
+- variogram modeling, kriging, spatial interpolation, uncertainty quantification, and multivariate analysis, geostatistics.
 
 
 ---
 
 ## 🧰 Technical Stack
 **Languages:** Python, MATLAB, Bash, SQL(beginner)  
-**Libraries:** NumPy, Pandas, Matplotlib, Seaborn, scikit-learn, PyTorch, SciPy 
+**Libraries:** NumPy, Pandas, Matplotlib, Seaborn, scikit-learn, PyTorch, SciPy     
 **Visualization:** Power BI, W&B, QGIS  
 **Systems:** Linux, HPC (Shaheen & Aziz supercomputer)  
 **Currently Learning:** Transformers (e.g. Hugging Face)

@@ -12,7 +12,7 @@ Each directory contains a dedicated README with detailed explanations, results, 
 
 - 🧠 [**Machine-Learning-Projects-&-Tasks** →](./Machine-Learning-Projects-&-Tasks) — Deep learning segmentation, predictive modeling, and experiment tracking
 - 🌍 [**Large-Data-Analysis-&-Visualisation** →](./Large-Data-Analysis-&-Visualisation) — Earthquake catalog analysis and parameter sensitivity studies 
-- 📊 [**Data-Analysis-Optimization-&-Tuning** →](./Data-Analysis-Optimization-&-Tuning) — Statistical analysis, inverse problems, and numerical methods  
+- 📊 [**Data-Analysis-Optimization-&-Matrix-Methods** →](./Data-Analysis-Optimization-&-Tuning) — Statistical analysis, inverse problems, and numerical methods  
 - ⚙️ [**HPC-Simulation-Work** →](./HPC-Simulation-Work) — Large-scale earthquake cycle simulations on KAUST’s Shaheen supercomputer
 
 ---

@@ -1,11 +1,12 @@
 # 📚 Data Analysis, Optimization & Matrix Methods  
 
-This directory unifies three complementary technical areas that demonstrate handling, analyzing, and optimizing data using both **computational** and **mathematical reasoning**.  
+This directory unifies three complementary technical areas that demonstrate handling, analyzing, and optimizing data using both **computational** and **mathematical reasoning**. It spans:
+- **geoscientific data analysis**
+- **inverse problems**
+- **numerical linear algebra**
 
-It spans ***geoscientific data analysis***, ***inverse problems***, and ***numerical linear algebra***, highlighting practical data workflows, algorithmic design, and performance-aware computation.  
-
-- Integrates **data analytics, optimization, and numerical computation**, bridging scientific modeling with modern AI and simulation practices.  
-- Focuses on **stability, interpretability, and reproducibility**, emphasizing how well-tuned mathematical models translate into robust computational solutions.  
+  - Integrates **data analytics, optimization, and numerical computation**, bridging scientific modeling with modern AI and simulation practices.  
+  - Focuses on **stability, interpretability, and reproducibility**, emphasizing how well-tuned mathematical models translate into robust computational solutions.  
  
 
 > **Tools:** Python, MATLAB, NumPy, Pandas, SciPy, Matplotlib, scikit-learn, Jupyter Notebooks  
@@ -30,17 +31,21 @@ It spans ***geoscientific data analysis***, ***inverse problems***, and ***numer
 
 ## 🚀 What’s inside
 
-- ⚙️ **Geoscientific Data Analysis (EDA & Geostatistics)**  
-  - Applied **spatial and temporal data analysis** to surface and subsurface datasets using MATLAB.  
-  - Techniques include **variogram modeling**, **kriging**, **inverse-distance weighting (IDW)**, and **triangulation-based interpolation**.  
-  - Analyzed **digital elevation models (DEM)**, **geochemical datasets**, and **Sentinel-2 optical imagery** for pattern recognition and surface classification.  
-  - Conducted **uncertainty quantification** and **declustering** to correct non-uniform sampling bias.  
-  - Emphasized **data visualization**, **geostatistical interpretation**, and **uncertainty communication** through colormaps, scatter trends, and residual histograms.  
-  🔗 [View directory →](./Geoscientific-Data-Analysis)
+- ⚙️**Geoscientific Data Analysis (EDA & Geostatistics):**  
+  - 🧩Applied **spatial and temporal data analysis** to surface and subsurface datasets using MATLAB.  
+  
+  - 🧩Techniques include **variogram modeling**, **kriging**, **inverse-distance weighting (IDW)**, and **triangulation-based interpolation**.  
+  
+  - 🧩Analyzed **digital elevation models (DEM)**, **geochemical datasets**, and **Sentinel-2 optical imagery** for pattern recognition and surface classification.  
+  - 🧩Conducted **uncertainty quantification** and **declustering** to correct non-uniform sampling bias.  
+  
+  - 🧩Emphasized **data visualization**, **geostatistical interpretation**, and **uncertainty communication** through colormaps, scatter trends, and residual histograms.  
+  
+ 🔗 [View directory →](./Geoscientific-Data-Analysis)
 
   <div align="center"><span style="color:#888;">⋯⋯⋯⋯ ⬩ ⋯⋯⋯⋯</span></div>
 
-- ⚙️ **Inverse Problems (Estimation, Stability & Regularization)**  
+- ⚙️**Inverse Problems (Estimation, Stability & Regularization)**  
   - Solved **linear and nonlinear inverse problems** for systems with incomplete or noisy data.  
   - Implemented **least-squares estimation** and **regularized inversion** (Tikhonov and constrained optimization).  
   - Analyzed **model resolution**, **data sensitivity**, and **conditioning** to assess solution reliability.  
@@ -60,9 +65,6 @@ It spans ***geoscientific data analysis***, ***inverse problems***, and ***numer
   - Explored **matrix conditioning**, **floating-point stability**, and **memory optimization** — essential for scaling ML and data pipelines.  
   - Illustrated **compressed sensing** and **robust PCA** for **background removal** and **sparse reconstruction**.  
   🔗 [View directory →](./Numerical-Linear-Algebra)
-
----
-
 
 
 ---

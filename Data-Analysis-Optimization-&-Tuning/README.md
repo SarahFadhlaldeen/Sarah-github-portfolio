@@ -41,38 +41,39 @@ This directory unifies three complementary technical areas that demonstrate hand
   
   - 🧩Emphasized **data visualization**, **geostatistical interpretation**, and **uncertainty communication** through colormaps, scatter trends, and residual histograms.  
   
- 🔗 [View directory →](./Geoscientific-Data-Analysis)
+ 🔗 [View Directory & Codes →](./Geoscientific-Data-Analysis)
 
   <div align="center"><span style="color:#888;">⋯⋯⋯⋯ ⬩ ⋯⋯⋯⋯</span></div>
 
-- ⚙️**Inverse Problems (Estimation, Stability & Regularization)**  
-  - Solved **linear and nonlinear inverse problems** for systems with incomplete or noisy data.  
-  - Implemented **least-squares estimation** and **regularized inversion** (Tikhonov and constrained optimization).  
-  - Analyzed **model resolution**, **data sensitivity**, and **conditioning** to assess solution reliability.  
-  - Developed MATLAB functions to quantify **stability under perturbations**, linking to optimization concepts like **L2 regularization** and **loss minimization** in ML.  
-  - Demonstrated how **regularization trade-offs** balance accuracy and stability — analogous to **bias-variance tuning** in predictive modeling.  
-  🔗 [View directory →](./Inverse-Problems)
+- ⚙️**Inverse Problems (Estimation, Stability & Regularization):**  
+  - 🧩Solved **linear and nonlinear inverse problems** for systems with incomplete or noisy data.
+  
+  - 🧩Implemented **least-squares estimation** and **regularized inversion** (Tikhonov and constrained optimization).
+  
+  - 🧩Analyzed **model resolution**, **data sensitivity**, and **conditioning** to assess solution reliability.
+  
+  - 🧩Developed MATLAB functions to quantify **stability under perturbations**, linking to optimization concepts like **L2 regularization** and **loss minimization** in ML.  
+  - 🧩Demonstrated how **regularization trade-offs** balance accuracy and stability — analogous to **bias-variance tuning** in predictive modeling.  
+  
+🔗 [View Directory & Codes →](./Inverse-Problems)
 
   <div align="center"><span style="color:#888;">⋯⋯⋯⋯ ⬩ ⋯⋯⋯⋯</span></div>
 
-- ⚙️ **Numerical Linear Algebra (Optimization, Decomposition & Algorithms)**  
-  - Focused on **matrix-based computation efficiency, stability, and accuracy**, foundational to scientific modeling and machine learning optimization.  
-  - Developed **from-scratch implementations** of:  
-    - **LU decomposition**, **forward/back substitution**, and iterative solvers (**Jacobi**, **Gauss–Seidel**).  
-    - **QR factorization** and **Power Method** for eigenvalue/eigenvector computation.  
-    - **SVD** and **PCA** for dimensionality reduction — including **face recognition (eigenfaces)** experiments.  
-  - Built custom **linear regression** implementations (normal equation, gradient descent, stochastic gradient descent) to compare **speed**, **noise sensitivity**, and **regularization** effects.  
-  - Explored **matrix conditioning**, **floating-point stability**, and **memory optimization** — essential for scaling ML and data pipelines.  
-  - Illustrated **compressed sensing** and **robust PCA** for **background removal** and **sparse reconstruction**.  
-  🔗 [View directory →](./Numerical-Linear-Algebra)
+- ⚙️**Numerical Linear Algebra (Optimization, Decomposition & Algorithms):**  
+  - 🧩Focused on **matrix-based computation efficiency, stability, and accuracy**, foundational to scientific modeling and machine learning optimization.
+  
+  - Developed **implementations** of:  
+    - **LU decomposition**, **forward/back substitution**, and iterative solvers (**Jacobi**, **Gauss–Seidel**). 
+    
+    - **QR factorization** and **Power Method** for eigenvalue/eigenvector computation.
+    
+    - **SVD** and **PCA** for dimensionality reduction — including **face recognition (eigenfaces)** experiments.
+      
+  - 🧩Explored **matrix conditioning**, **floating-point stability**, and **memory optimization** — essential for scaling ML and data pipelines.
+  
+  - 🧩Illustrated **compressed sensing** and **robust PCA** for **background removal** and **sparse reconstruction**.
+  
+🔗 [View Directory & Notebooks →](./Numerical-Linear-Algebra)
 
 
----
-
-## 📎 Quick links
-- ▶️ **Geoscience EDA & Interpolation** → [Open](./Geoscience-Analysis)  
-- ▶️ **Inverse Problems & Regularization** → [Open](./Inverse-Problems)  
-- ▶️ **Numerical Linear Algebra & PCA/Solvers** → [Open](./Numerical-Linear-Algebra)
-
----
 

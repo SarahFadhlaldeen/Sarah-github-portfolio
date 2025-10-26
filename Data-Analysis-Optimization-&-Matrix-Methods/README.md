@@ -32,7 +32,7 @@ This directory unifies three complementary technical areas that demonstrate hand
 ## 🚀 What’s inside
 
 - ⚙️**Geoscientific Data Analysis (EDA & Geostatistics):**  
-  - 🧩Applied **spatial and temporal data analysis** to surface and subsurface datasets using MATLAB.  
+  - 🧩Applied **statistical, spatial and temporal data analysis** to surface and subsurface datasets using MATLAB.  
   
   - 🧩Techniques include **variogram modeling**, **kriging**, **inverse-distance weighting (IDW)**, and **triangulation-based interpolation**.  
   

@@ -43,7 +43,7 @@ This directory unifies three complementary technical areas that demonstrate hand
   
  🔗 [View Directory & Codes →](./Geoscientific-Data-Analysis)
 
-  <div align="center"><span style="color:#888;">⋯⋯⋯⋯ ⬩ ⋯⋯⋯⋯</span></div>
+ <div align="center"><span style="color:#888;">⋯⋯⋯⋯ ⬩ ⋯⋯⋯⋯</span></div>
 
 - ⚙️**Inverse Problems (Estimation, Stability & Regularization):**  
   - 🧩Solved **linear and nonlinear inverse problems** for systems with incomplete or noisy data.
@@ -57,12 +57,15 @@ This directory unifies three complementary technical areas that demonstrate hand
   
 🔗 [View Directory & Codes →](./Inverse-Problems)
 
-  <div align="center"><span style="color:#888;">⋯⋯⋯⋯ ⬩ ⋯⋯⋯⋯</span></div>
 
-- ⚙️**Numerical Linear Algebra (Optimization, Decomposition & Algorithms):**  
+<div align="center"><span style="color:#888;">⋯⋯⋯⋯ ⬩ ⋯⋯⋯⋯</span></div>
+
+
+- ⚙️**Numerical Linear Algebra (Optimization, Decomposition & Algorithms):** 
+
   - 🧩Focused on **matrix-based computation efficiency, stability, and accuracy**, foundational to scientific modeling and machine learning optimization.
   
-  - Developed **implementations** of:  
+  - 🧩Developed **implementations** of:  
     - **LU decomposition**, **forward/back substitution**, and iterative solvers (**Jacobi**, **Gauss–Seidel**). 
     
     - **QR factorization** and **Power Method** for eigenvalue/eigenvector computation.

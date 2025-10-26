@@ -56,15 +56,18 @@ Each directory contains a dedicated README with detailed explanations, results, 
 
 ---
 
-## 📊 Data Analysis, Optimization & Tuning
+## 📊 Data Analysis, Optimization & Matrix-Methods  
 
-**Coursework in Data Analysis in Geoscience, Inverse Problems, and Numerical Linear Algebra (KAUST)**  
-- Applied **statistical and computational techniques** to analyze geophysical and scientific datasets.  
-- Used **optimization and parameter-estimation methods** to solve inverse problems and improve model accuracy.  
-- Explored **advanced numerical methods** (SVD, LU, matrix factorization) for handling large datasets and enhancing data resolution.  
-- Built a strong foundation in **quantitative analysis**, **numerical modeling**, and **computational efficiency**, essential for modern machine learning workflows.
-- Tools: Python, MATLAB 
-- [View tasks](./Data-Analysis-Optimization-&-Tuning)
+**Applied computational, statistical, and numerical techniques across geoscience and mathematical modeling domains.**  
+- Performed **parameter estimation, inverse modeling, and optimization** to improve model stability and accuracy.  
+- Implemented **matrix and decomposition methods** (SVD, LU, PCA, QR) for high-dimensional data reduction, signal extraction, and system solving.  
+- Explored **conditioning, regularization, and convergence behavior** to ensure computational robustness.  
+- Demonstrated practical integration of **data analytics, numerical algorithms, and model optimization**, bridging scientific computation and data-driven methods. 
+
+<br>
+
+- 💻 Tools: Python, MATLAB  
+- 🔗 [View details →](./Data-Analysis-Optimization-&-Matrix-Methods)
 
 ---
 

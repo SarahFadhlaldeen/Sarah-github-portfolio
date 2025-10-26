@@ -11,7 +11,7 @@ I’m passionate about applying data-driven methods and emerging technologies li
 Each directory contains a dedicated README with detailed explanations, results, and  Jupyter Notebook links.
 
 - 🧠 [**Machine-Learning-Projects-&-Tasks** →](./Machine-Learning-Projects-&-Tasks) — Deep learning segmentation, predictive modeling, and experiment tracking
-- 🌍 [**Large-Data-Analysis-&-Visualisation** →](./Large-Data-Analysis-&-Visualisation) — Lare data (Earthquake catalogs) analysis and parameter sensitivity analysis 
+- 🌍 [**Large-Data-Analysis-&-Visualisation** →](./Large-Data-Analysis-&-Visualisation) — Large data (Earthquake catalogs) analysis and parameter sensitivity analysis 
 - 📊 [**Data-Analysis-Optimization-&-Matrix-Methods** →](./Data-Analysis-Optimization-&-Tuning) — Data analysis, inverse problems, and numerical methods  
 - ⚙️ [**HPC-Simulation-Work** →](./HPC-Simulation-Work) — Large-scale earthquake cycle simulations on KAUST’s Shaheen supercomputer
 
